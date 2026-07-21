@@ -6,12 +6,18 @@
 ## Overview
 Interactive dashboard over **60,000+ sales-order records and 18,000+ customers**, built on a Tableau relationship model: the fact table related to Customer, Product, Sales Territory, and Currency dimensions.
 
+## Dashboard
+
+![Sales Orders Dashboard](Tableau%20Dashboard.png)
+
 ## Views
-1. **Geographical Decomposition** — map of order volume by country (color-encoded measure)
+1. **Geographical Decomposition** — map of order volume by country (color-encoded measure, e.g. United States 9,468 orders, Canada 3,872, United Kingdom 2,875)
 2. **Time Series** — monthly order trend on OrderDate
 3. **Product Behavior** — product-level order ranking
 
-All three unified in a single cross-filtering dashboard.
+All three unified in a single cross-filtering dashboard, with a Top-N limit control and Order Date range filter.
 
 ## Files
 - `Book1.twbx` — packaged Tableau workbook (open in Tableau Desktop or Tableau Public)
+- `Epsilon - New - Order Data.xlsx` — raw source data
+- `Tableau Dashboard.png` — dashboard screenshot
