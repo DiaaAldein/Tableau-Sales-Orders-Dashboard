@@ -1,6 +1,6 @@
 # Sales Orders Dashboard — Tableau
 
-**Author:** Diaa Aldein Alsayed Ibrahim Osman | [LinkedIn](http://www.linkedin.com/in/diaa-ibrahim-31381656)
+**Author:** Diaa Aldein Alsayed Ibrahim Osman | [LinkedIn](https://www.linkedin.com/in/diaa-ibrahim-data)
 **Program:** Epsilon AI Institute — CDAP Diploma project
 
 ## Overview
